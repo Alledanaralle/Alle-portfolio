@@ -30,7 +30,7 @@ header {
 }
 
 .logo {
-    font-size: clamp(1.3rem, 5vw, 2.25rem);
+    font-size: clamp(1.5rem, 5vw, 2.25rem);
     color: #fff;
     text-decoration: none;
 }
@@ -72,7 +72,7 @@ header button {
     background: #ff335f;
     color: #fff;
     padding: .8em .75em;
-    font-size: clamp(.5rem, 2vw, .9rem);
+    font-size: clamp(.65rem, 2vw, .9rem);
     border-radius: 6px;
 }
 
