@@ -200,7 +200,7 @@ section {
 
     & p {
         color: inherit;
-        font-size: clamp(.85rem, 2vw, 1rem);
+        font-size: clamp(.7rem, 2vw, 1rem);
     }
 }
 
