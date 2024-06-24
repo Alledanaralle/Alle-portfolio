@@ -13,9 +13,9 @@
 :root {
     --text-light: #121212;
     --text-dark: #e4e4e4;
-    --body-light: #e4e4e4;
+    --body-light: #fff;
     --body-dark: #000;
-    --header-dark: #121212;
+    --header-dark: #000;
     --header-light: #fff;
     --accent-color: #0077ff;
 }
