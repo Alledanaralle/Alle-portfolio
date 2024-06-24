@@ -238,7 +238,7 @@ article.pfp {
 
 .contact-form {
     position: fixed;
-    background: var(--header-light);
+    background: var(--text-dark);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -316,7 +316,7 @@ article.pfp {
 }
 
 .contact-form.dark {
-    background: var(--header-dark);
+    background: var(--text-light);
     color: var(--text-dark);
 
     & .contact-btn:hover {
